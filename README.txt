@@ -27,6 +27,11 @@ Git的一些常用的操作！
 	
 	提交成功后，以后可以用这个方式来提交：
 		git push origin master
+		
+	Delete Git File :
+		git rm -r --cached file.txt
+		git commit -m "delete file"
+		git push -u origin master
 	
 	修改远程仓库地址：
 	
