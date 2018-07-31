@@ -1,0 +1,7 @@
+﻿	git config --global user.name "Your Name"   //这里是GitHub上的用户名
+	
+	git config --global user.email "email@example.com"   //注册时的邮箱
+
+	git config -l  //查看设置的用户名和邮箱
+	
+	//Hello Git

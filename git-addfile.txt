@@ -1,0 +1,3 @@
+ $ git add file.txt   //添加单个文件
+ $ git add file1.txt file2.txt  //添加多个文件
+ $ git commit -m "add 3 file"  //也是添加多个文件，比起上面的简便很多
