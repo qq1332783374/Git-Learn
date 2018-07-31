@@ -9,7 +9,7 @@ Git的一些常用的操作！
 	创建Git仓库：
 		git init
 	
-	添加文件：
+	添加文件或文件夹：
 		git add filename.txt   //添加单个文件
 		git add file1.txt file2.txt  //添加多个文件
 	
